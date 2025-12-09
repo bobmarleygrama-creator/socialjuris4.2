@@ -1,0 +1,5 @@
+{
+  "name": "Login Seguro & Dashboard IA",
+  "description": "Uma tela de login moderna e responsiva com validação, construída com React, Tailwind CSS e integração opcional com Gemini para mensagens de boas-vindas.",
+  "requestFramePermissions": []
+}
